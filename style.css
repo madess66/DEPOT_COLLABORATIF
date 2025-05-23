@@ -5,3 +5,9 @@ h1{
     font-size: 60px;
     font-family: sans-serif;
 }
+
+marquee {
+    font-size: 3rem;
+    background: linear-gradient(to left, #f00, #ff0, #00f);
+    color: #fff;
+}
